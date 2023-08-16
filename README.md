@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Daniel Florez, Desarrollador Full Stack con 7 meses de experiencia. <br>Con habilidades en Angular, React, Python y Java. con experiencia por Android Studio y Flutter para apps móviles. <br>Amplia destreza en API REST con .NET, C#, PHP y Python. Experto en SQL Server,<br>PostgreSQL y MySQL. Siempre aprendiendo y trayendo soluciones frescas. Colaborador<br>entusiasta, resuelvo desafíos con determinación.
+👋 ¡Hola! Soy Daniel Florez, Desarrollador Full Stack con 6 meses de experiencia. <br>Con habilidades en Angular, React, Python y Java. con experiencia por Android Studio y Flutter para apps móviles. <br>Amplia destreza en API REST con .NET, C#, PHP y Python. Experto en SQL Server,<br>PostgreSQL y MySQL. Siempre aprendiendo y trayendo soluciones frescas. Colaborador<br>entusiasta, resuelvo desafíos con determinación.
 
 
 ## 🌐 Socials:
